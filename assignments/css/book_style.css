@@ -1,0 +1,23 @@
+body{
+    font-family: Pretendard;
+    font-weight: 300;
+    font-size: 20px;
+    margin: 0;
+    line-height: 30px;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0 20 30;
+    line-height: 250%;
+    
+ }
+
+
+
+ li a:hover {
+    color : #fff;
+    background-color: orange;
+ }
+ 
