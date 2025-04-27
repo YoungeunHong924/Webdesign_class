@@ -15,6 +15,11 @@ header {
  }
 
 
+ h2 {
+    font-size: 20px;
+    color:#701dff;
+
+ }
 
  li a:hover {
     color : #fff;
